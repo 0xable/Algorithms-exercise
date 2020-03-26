@@ -1,3 +1,5 @@
+// https://algospot.com/judge/problem/read/PASS486
+
 #include <iostream>
 #include <vector>
 
