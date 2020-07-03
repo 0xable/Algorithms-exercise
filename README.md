@@ -1,2 +1,2 @@
-# Algorithms-exercise
-알고리즘 연습
+# Problem-Solving-Exercise
+문제 해결 연습
